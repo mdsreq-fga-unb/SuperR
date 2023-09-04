@@ -1,0 +1,19 @@
+# A Gamificação e a Aprendizagem Baseada em Problemas
+
+## O que é Gamificação?
+Gamificação, é um termo que vem da palavra “game” (jogo em inglês), o qual refere-se à aplicação de elementos de design de jogos em contextos que não são jogos. Esta estratégia pedagógica foi popularizada por Deterding et al. (2011), que afirmaram que o objetivo da gamificação é tornar as atividades mais divertidas e envolventes, incentivando assim a participação e a motivação. No contexto educacional, a gamificação tem sido cada vez mais reconhecida como uma ferramenta poderosa para melhorar a motivação e o engajamento dos alunos, sendo uma opção natural, desde o ensino fundamental até o ensino superior.
+
+De acordo com Freitas, et al (2016), a gamificação é, em si, uma metodologia de aprendizagem ativa em que os alunos podem se tornar aprendizes engajados e motivados nas atividades de aprendizagem. O desafio é criar um ambiente gamificado no espaço da sala de aula e fora dela.
+Isto é particularmente verdadeiro em disciplinas da Engenharia de Software, que são tradicionalmente percebidas como desafiadoras e teóricas. Com a gamificação, os conceitos e processos podem ser representados de uma maneira mais lúdica e interativa, tornando-os mais tangíveis e compreensíveis para os alunos. Além disso, a gamificação permite que os alunos aprendam fazendo, o que pode facilitar a compreensão e a retenção do material da disciplina.
+
+Contudo, para que os potenciais benefícios sejam observados, é importante que a implementação desta estratégia seja realizada de maneira cuidadosa, sendo crucial que os elementos de jogo sejam projetados de uma maneira que apoie os objetivos de aprendizagem da disciplina. Ademais, a competição entre os estudantes deve ser gerenciada com atenção visando garantir que ela promova um ambiente de aprendizagem positivo e inclusivo.
+
+Nesta direção, ao abordar a disciplina de REQ como um jogo, quatro características determinantes precisam ser observadas: meta, regras, feedback e participação voluntária (McGonigal, 2011). A partir disso, devem ser mapeadas quais seriam as motivações e as técnicas de jogos a serem utilizadas na construção do jogo. Para tanto, pode-se utilizar, por exemplo, o framework Octalysis (Freitas, et al., 2016). E, para a identificação do perfil dos estudantes e suas motivações, a metodologia proposta por Freitas, et al (2017), a qual permite criar um projeto de gamificação claro com base no perfil de gamificação identificado para o público dos alunos.
+
+Assim sendo, a aplicação de técnicas de gamificação na disciplina de Requisitos de Software pode ajudar a tornar os conceitos e práticas da disciplina mais tangíveis e acessíveis para os estudantes, estimulando o engajamento e facilitando a retenção de informações.
+
+## A importância da PBL
+A Aprendizagem Baseada em Problemas (PBL) enfatiza a aprendizagem ativa e prática, incentivando os estudantes a trabalhar em projetos que requerem a aplicação de várias habilidades e conhecimentos. No contexto da disciplina de Requisitos de Software, a PBL pode permitir aos estudantes aplicar e testar o que aprenderam de uma maneira prática e realista, promovendo a compreensão profunda e a aprendizagem duradoura (Thomas, 2000), por meio do desenvolvimento de projetos para clientes reais.
+
+A combinação de gamificação e PBL, portanto, pode proporcionar uma abordagem de ensino poderosa e inovadora para a disciplina de Requisitos de Software. Esta estratégia tem o potencial de tornar a aprendizagem mais envolvente, prática e eficaz, preparando melhor os estudantes para os
+desafios que enfrentarão em suas carreiras futuras na engenharia de software. 

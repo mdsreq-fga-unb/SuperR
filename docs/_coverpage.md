@@ -1,9 +1,9 @@
-<img src="./imagens/logoUnB.png" alt="logoUnB" width="150" style="margin-right: 100px;"/>
-<img src="./imagens/logoCedis(SemFundo).png" alt="logoCedis" width="150"/>
+<a href="https://unb.br/"><img src="./imagens/logoUnB.png" alt="logoUnB" width="150" style="margin-right: 100px;"/></a>
+<a href="https://www.cedis.unb.br/"><img src="./imagens/logoCedis(SemFundo).png" alt="logoCedis" width="150"/></a>
 
 <br><br>
 
-# Nome do Projeto
+# Super-R
 
 > Gamificação aplicada no ensino
 
